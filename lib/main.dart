@@ -231,7 +231,7 @@ class _LoginHomePageState extends State<LoginHomePage> {
            TextFormField(
               autofocus: false,
               //keyboardType: TextInputType.number,
-              //键盘回车键的样式
+              //键盘回车键的样式 IOS 只能识别数字
               textInputAction: TextInputAction.next,
               controller: unameController,
               decoration: const InputDecoration(
