@@ -58,7 +58,7 @@ class LoginAlertDemoApp extends StatelessWidget {
     });
     })
     ],
-    title: new Text("欢迎登陆米格斯移动验货平台")
+    title: new Text("欢迎登陆XXX平台")
     )
     )
     );
